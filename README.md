@@ -1,4 +1,5 @@
 ## Flutter
 
 # ScreenShots
-![screen records](https://github.com/tuozhaobing/NativeFlutter/blob/master/art/bmi_calculator.gif)
+![](my_flutter/images/photo_2019-05-05_15-18-38.jpg)
+![](my_flutter/images/photo_2019-05-05_15-18-42.jpg)
